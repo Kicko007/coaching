@@ -1,4 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 document.addEventListener("DOMContentLoaded", function () { 
     const inputs = document.querySelectorAll("input");
     const monthlyRevEl = document.getElementById("monthlyRevenue");
